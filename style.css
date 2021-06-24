@@ -9,7 +9,7 @@ body {
     align-items: center;
 }
 
-.stars {
+ul {
     display: flex;
     text-align: center;
     margin-top: 150px;
@@ -19,13 +19,21 @@ li {
     list-style: none;
     font-size: 100px;
     letter-spacing: 10px;
-    color: yellow;
+    color: white;
 }
 
-p {
+.ptext {
     font-size: 100px;
     color: #44EBD2;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-shadow: 4px 4px #A42CE9;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.pink {
+    color: hotpink;
 }
