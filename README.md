@@ -1,1 +1,1 @@
-First Commit
+This project was built with HTML, CSS and JS. Star ratings are very common on many sites used for user reviews. This project allows the user to mouse hover over the stars then click on how many stars they would like to give a rating. The hover effect changes the stars colors and when the user clicks the stars will change color again and a message will get displayed with the user's rating. This small project can be added to larger projects.
